@@ -19,3 +19,4 @@
 - https://pillar.io/
 - https://later.com/link-in-bio/
 - https://lnk.bio/
+- https://sproutsocial.com/features/link-in-bio/
