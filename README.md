@@ -20,3 +20,4 @@
 - https://later.com/link-in-bio/
 - https://lnk.bio/
 - https://sproutsocial.com/features/link-in-bio/
+- https://linkpop.com/en
