@@ -21,3 +21,4 @@
 - https://lnk.bio/
 - https://sproutsocial.com/features/link-in-bio/
 - https://linkpop.com/en
+- https://liinks.co/
