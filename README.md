@@ -12,6 +12,7 @@
 # CLOSED SOURCE
 
 - https://perma.bio/ — flat-price link-in-bio (Evergreen $18/yr, Pro $39/yr, 0% platform fees)
+- https://entry.fyi — living identity page (replaces link-in-bio + portfolio + résumé); syncs GitHub/site/X; free forever.
 
 - https://linktr.ee/
 - https://biosites.com/
