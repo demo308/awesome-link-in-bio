@@ -26,3 +26,4 @@
 - https://liinks.co/
 - https://guns.lol/
 - https://e-z.bio/
+- https://closer2.me/ — managed messaging service that delivers a creator's OnlyFans, Fansly or Fanvue link when fans tap Text on their Instagram profile (18+ audience)
